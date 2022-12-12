@@ -7,9 +7,9 @@ public class UnitedNations {
 		Country country = new Country();
 		String input = InputHelper.getInput("Where are you? ").toUpperCase();
 		
-		Countries output = Countries[input];
+		//Countries output = Countries[input];
 		
-		country.weather(output);
+//		country.weather();
 		
 		
 	}
